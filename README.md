@@ -23,6 +23,9 @@
 ## Overview
 
 This project is a custom USB hub built around the SL2.1s hub controller. The board includes two USB-A connectors, three USB-C connectors, ESD protection, oscillator support, and the supporting passives needed for a clean compact hub design.
+<h2>
+  <a href="https://cad.onshape.com/documents/cf7789123195bd5a45b065f1/w/dd1b2cdc65956b51f07bda70/e/39d78a645fa9a3d968176734?renderMode=0&uiState=6a1f0fc86f648b43c2e283e0">OnShape Project Link</a>
+</h2>
 <h1 align = "center">
   Why did I build this project
 </h1>
@@ -45,9 +48,6 @@ The enclosure is the dramatic part: a two-piece 3D printed case with a white top
 | [`Zine.pdf`](Zine.pdf) / [`Zine.png`](Zine.png) | Project zine in PDF and image form |
 
 ## Case Gallery
-<h2>
-  <a href="https://cad.onshape.com/documents/cf7789123195bd5a45b065f1/w/dd1b2cdc65956b51f07bda70/e/39d78a645fa9a3d968176734?renderMode=0&uiState=6a1f0fc86f648b43c2e283e0">OnShape Project Link</a>
-</h2>
 | Full case | Exploded view |
 | --- | --- |
 | <img src="Image%20Assets/Case%20Images/Normal%20Case%20View.png" alt="Normal case view" width="420"> | <img src="Image%20Assets/Case%20Images/Exploded%20View.png" alt="Exploded case view" width="420"> |
