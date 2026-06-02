@@ -23,7 +23,15 @@
 ## Overview
 
 This project is a custom USB hub built around the SL2.1s hub controller. The board includes two USB-A connectors, three USB-C connectors, ESD protection, oscillator support, and the supporting passives needed for a clean compact hub design.
-
+<h1 align = "center">
+  Why did I build this project
+</h1>
+<p align = "center">
+  I built this project as a part of an event called Fallout , organized by an organization called Hack Club, we ship projects and when we reach 60 hours of work on them we get invited to Shenzen, China on a Hardware Hackathon, I am building this project to work toward those 60 hours.
+  <h2 align = "center">Why did I build this USB Hub?</h2>
+  I created this project to deepen my understanding of how hardware works at a fundamental level, from sourcing components to designing the PCB. I also wanted to put my own custom spin on the classic USB hub by adding cool features that I would personally appreciate and use.
+  My desk is really messy from all the cables I use, so I decided to make this USB Hub to help me organize my cables a bit , but also as this is my first hardware project, I thought I should start from something easier like a USB Hub and my next project will be better.
+</p>
 The enclosure is the dramatic part: a two-piece 3D printed case with a white top shell, gold raised details, decorative eye motifs, and a separate halo ring. The PCB sits inside the bottom shell on standoffs, and the top and bottom are fastened together with four M3 screws into heat-set inserts.
 
 ## Repository Contents
