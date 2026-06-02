@@ -45,7 +45,9 @@ The enclosure is the dramatic part: a two-piece 3D printed case with a white top
 | [`Zine.pdf`](Zine.pdf) / [`Zine.png`](Zine.png) | Project zine in PDF and image form |
 
 ## Case Gallery
-
+<h2>
+  <a href="https://cad.onshape.com/documents/cf7789123195bd5a45b065f1/w/dd1b2cdc65956b51f07bda70/e/39d78a645fa9a3d968176734?renderMode=0&uiState=6a1f0fc86f648b43c2e283e0">OnShape Project Link</a>
+</h2>
 | Full case | Exploded view |
 | --- | --- |
 | <img src="Image%20Assets/Case%20Images/Normal%20Case%20View.png" alt="Normal case view" width="420"> | <img src="Image%20Assets/Case%20Images/Exploded%20View.png" alt="Exploded case view" width="420"> |
